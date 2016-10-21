@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "witty-gap",
+  "private_key_id": "0e6be02214303440840f897e73e512a0e8150350",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDX3S6vHX9eAGYj\npMYhjrPPtng7xqxwuh+Yck8HiIAlJfbe6gLRUv3H9EH5t8TRB0fldEwMElcKBQ6i\nAGNSmD++P6CuiGkEZrGV5FHpBE/iVhmc5poeOGMEIIZO8vGhhPOANkaFQFt4Yu8m\nav9p8Pd9VDQgxmP4BSY1nfdV/Jj8mo858c7V+98H7gHSL0PGBLLZBjZ2R9ggsuux\nr//iE0owfE66A3IB0/nSJ6fSSvvoGDqhgdWXNKFIzz99oTATgeTzzEb7EL4YXaJH\nQlCoJaqab83Zj2NqnBRhLRwSajnDFiQQXKKGjRjDXEgyd2ly27CWTF20LhxFTdgD\nUgHTkrgBAgMBAAECggEAPSzcxxn3957rU1ymHeqAQPR4XJBwXD4TKDP0+7COiHia\n3w+4nrQDYgByFiAjcg27LWbpCl7ENf266ORtQYIORo9nrS7RfELSPyWGpR/ot78o\n4RNlR/046nmBNqyZF+pCy+oV0Dut8I8xMVUPb2mv6d/MKiGvQSHMc1OCPecpQCTU\nBf42yVHmdg6b/rVuVMI7ygOqCdbJwvOgGvKj/PSRivLlyuQADMcDLoQ+SAB3/lrH\nXnR8/pNaLMIiPLd9OU/LdV/qS0aUA1YCJ3tBwEtWDWxykXjPpBywSOpIEcaGnoVH\niXeHxbvBkW3OQeIP2WVbHRWiYWgJtCJvPq5VRiXrdQKBgQDsG3uFG9Fqh3ieApvO\n6kRhIYKtb/5WTf4BPxf9uAtvGHMHcM2OzNrphlCj73knCzt8nonOJFNdmTj0s5ME\nj7gJR4CCMI86DUs2ZyT0QeNdB/6OEodtLnAKEse0L1kosQh9leoVmkM5P/ld3oQQ\nO8qIAg9FmYUwbiTlLKPGJTMBxwKBgQDqDRPurh+YxEIkbh8DawI11+KHscT4kjHg\nMtlNMWy643zXq6edlvx0d5GlV4qVvKrSiCyQvqub3vFYffl30p2k2ppr8Lckqbgb\nAE6iMPUKwNEZbtpn748fvrWqw3P4pUaWxMfaWtMVSy+lLj+aK5Gc/O1rXpCstbuy\nHCQmsjP39wKBgQDcuGxmaTUCU5askF+7tUErVDpnjLTFVa/I1oTFCVKXDtIp+IgR\noOxdNtUYC/zERTndLBBDh63vaBfYmi8sKnavJgq6qk6axGa1ewMO3LGB/ME5a5Ty\numC+6gOLLGA7LBR14rmsbEO/t1CVMjlfO6YAM3y3Yeci+TTAkVShHZFrbQKBgQDL\nUuMe9Qsj5lLjXPr6OCrqZYo4gXlwy2gisWnPQoGHdXqNzWRGZdUYxIq1TXBqFkV7\nsaqtb8abGTkmvAFNU515iiKeZLZlVj9GzaSCB+/IEKtV4dRAeH8of79IApWrysCg\n14Aas84t8GwKnjvIjdLow1zpanRaZWISH5pUN3koDwKBgQCmO9P7x31+iO07JSs7\nnBeb5bOC2LCSWHumWL63ruwocWpPczJbPw9x6Aj9ECMfNBREIzA36AMzoU214+RL\nfXoD/lX58k3OQ5XBRCQMtNp/iAt4/z9Q+wuMez0oWJj+XE9c6ySat5oe+k7ZWfze\nd+uDxgExOZ8UdBaeSTWEhg+7Iw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-bigquery-user@witty-gap.iam.gserviceaccount.com",
+  "client_id": "110617249580896925482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-bigquery-user%40witty-gap.iam.gserviceaccount.com"
+}
